@@ -1,5 +1,5 @@
   
-<img src="https://assets.intersystems.com/dims4/default/2ef84bc/2147483647/strip/false/crop/473x266+154+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2Fe4%2Fe5%2Fc7728ffb4f60964a6e7d089905f0%2Fazure-logo-large.jpg" width="400px"/>
+<img src="https://assets.intersystems.com/dims4/default/2ef84bc/2147483647/strip/false/crop/473x266+154+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2Fe4%2Fe5%2Fc7728ffb4f60964a6e7d089905f0%2Fazure-logo-large.jpg" width="50%"/>
 
 # Keuze tussen AWS en Azure
 
