@@ -1,4 +1,4 @@
-# Proccess kaart implementatie
+# Proces kaart implementatie
 
 ## Inleiding 
 
