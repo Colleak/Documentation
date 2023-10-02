@@ -7,7 +7,7 @@ In Eindhoven, aan Fontys Hogescholen, volgen wij, Teun Hurkmans, Art Nooijen, Ja
 <img src="https://github.com/Colleak/Documentation/assets/113422379/9707b51b-1047-4133-8e7e-1859a920c999" width="300px"/>
 
 ## Opdrachtgever IO 
-IO Digital Agencies is een digitaal bureau dat zich specialiseert in het leveren van oplossingen op het gebied van webontwikkeling, digitale marketing en creatieve strategieën. Ze werken samen met klanten om digitale ervaringen te creëren en merken te laten groeien in het digitale tijdperk. Het bedrijf legt de nadruk op creativiteit, technologie en strategie om doelgerichte resultaten te behalen voor hun klanten.
+IO Digital Agencies is een digitaal bureau dat zich specialiseert in het leveren van oplossingen op het gebied van webontwikkeling, digitale marketing en creatieve strategieën. Ze werken samen met klanten om digitale ervaringen te creëren en merken te laten groeien in het digitale tijdperk. Het bedrijf legt de nadruk op creativiteit, technologie en strategie om doelgerichte resultaten te behalen voor hun klanten. (Wie we zijn | IO, z.d.)[^1]
 
 ## Opdracht:
 ### Where-is-my-colleague Tracker (2023)
@@ -44,3 +44,6 @@ Informatie over de gebruikte frameworks voor onze frontend is te vinden in de re
 Informatie over de gebruikte frameworks voor onze backend is te vinden in de readme van de backend:
 
 - [Backend](https://github.com/Colleak/Backend-Colleak)
+
+### Sources:
+[^1]: Wie we zijn | IO. (z.d.). https://www.iodigital.com/nl/over-ons
