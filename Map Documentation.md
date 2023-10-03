@@ -1,22 +1,22 @@
-# Proces kaart implementatie
+# Proceskaart Implementatie
 
-## Inleiding 
+## Inleiding
 
-Na een spike-onderzoek om te bepalen welke bibliotheek we wilden gebruiken, begonnen we met de implementatie van [React-native-leaflet](https://github.com/pavel-corsaghin/react-native-leaflet/tree/main/android). We liepen echter tegen enkele problemen aan omdat veel functionaliteiten van de normale leaflet.js ontbreken, zoals max-bounds en max/min-zoom instellingen. Deze zijn nodig om de applicatie er netjes uit te laten zien en te laten functioneren zoals we willen. 
+Na een spike-onderzoek om te bepalen welke bibliotheek we wilden gebruiken, zijn we gestart met de implementatie van [React-native-leaflet](https://github.com/pavel-corsaghin/react-native-leaflet/tree/main/android). We ondervonden echter enkele problemen omdat veel functionaliteiten van de normale leaflet.js ontbreken, zoals max-bounds en max/min-zoom instellingen. Deze functionaliteiten zijn essentieel om de applicatie er verzorgd uit te laten zien en te laten functioneren zoals bedoeld.
 
 ## Leaflet Spike
 
-We hebben een spike gedaan waar we onderzoek hebben gedaan. Dit zijn de resultaten:
+We hebben een spike uitgevoerd en dit zijn de resultaten:
 - [Leaflet Spike](https://github.com/Colleak/Documentation/blob/DEV/LeafletSpike.md)
 
 ## Evaluatie van React-native-leaflet 
 
-React-native-leaflet, hoewel een populaire keuze, voldeed niet volledig aan onze behoeften vanwege het gebrek aan enkele cruciale functionaliteiten. 
+React-native-leaflet is een populaire keuze, maar voldeed niet volledig aan onze eisen vanwege het ontbreken van enkele cruciale functionaliteiten.
 
 ## Overweging van React-native-maps
 
-We hebben ook overwogen om [react-native-maps](https://github.com/react-native-maps/react-native-maps) te gebruiken, een bibliotheek die door react-native zelf wordt aanbevolen. Echter, deze bibliotheek werkt alleen met echte kaarten en niet met de aangepaste kaarten die we in onze applicatie willen implementeren. zoals de vloer plannen van de verdiepingen.
+We hebben ook [react-native-maps](https://github.com/react-native-maps/react-native-maps) overwogen, een bibliotheek die door React Native zelf wordt aanbevolen. Deze bibliotheek is echter beperkt tot het werken met echte kaarten en ondersteunt niet de aangepaste kaarten, zoals de vloerplannen van de verdiepingen, die we in onze applicatie willen implementeren.
 
 ## Conclusie 
 
-We zijn er over na aan het denken om eventueel zelf een coordinaten systeem te maken.
+We hebben besloten om zelf een kaartsysteem te ontwikkelen waarmee we avatars van medewerkers op specifieke coördinaten kunnen plaatsen.
