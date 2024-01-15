@@ -13,15 +13,15 @@ In different parts of the world, different standards exist, so to make this docu
 
 Additionally, within our group project we have made a presentation that included details regarding a few different learning outcomes, including this one. Below you can see the slides that are relevant to this outcome.
 
-![Ethics](../Images/Ethics.PNG)
+![Ethics](./Images/Ethics.PNG)
 
 This slide discusses ethical considerations we made and planned to implement. As our group project focused on tracking user locations it was essential that we treat their privacy very carefully as to not overstep their boundaries or put our users at risk.
 
-![Framework](../Images/Ethics_Frameworks.PNG)
+![Framework](./Images/Ethics_Frameworks.PNG)
 
 Here, we discussed the frameworks we used to draw certain conclusions regarding ethical aspects we wanted to take into consideration for our application.
 
-![Cultural Differences](../Images/Cultural.png)
+![Cultural Differences](./Images/Cultural.png)
 
 Lastly, we discussed potential cultural differences that could arise regarding our userbase and what actions we take to ensure users of various cultures can comfortably and easily use our application.
 [^2]
