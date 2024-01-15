@@ -39,7 +39,13 @@ Dit project biedt mogelijkheden om te leren over API-integratie, UI-ontwikkeling
 
 Informatie over de gebruikte frameworks voor onze frontend is te vinden in de readme van de frontend:
 
-- [Frontend](https://github.com/Colleak/Frontend#readme)
+## Mock API
+
+Wij hebben een mock api gemaakt die teams simuleert. Dit hosten wij op pythonanywhere.com here is the documentation: [MockApi](https://github.com/Colleak/Backend-Colleak/blob/main/Documentation/Mock%20API%20Doc.md)
+
+
+
+ - [Frontend](https://github.com/Colleak/Frontend#readme)
 
 Informatie over de gebruikte frameworks voor onze backend is te vinden in de readme van de backend:
 
