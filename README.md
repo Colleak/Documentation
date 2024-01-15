@@ -44,5 +44,6 @@ Information about the frameworks used for our backend can be found in the backen
 
 - [Backend](https://github.com/Colleak/Backend-Colleak)
 
+## The back-end is now connected to a Mock Api that works like teams. Due to privacy reasons we did not have access to their microsoft enviroment. so we Mocked the data we needed using pythonAnywhere.com this is our [MockApi](https://github.com/Colleak/Backend-Colleak/blob/main/Documentation/Mock%20API%20Doc.md)
 ### Sources:
 [^1]: Who we are | IO. (n.d.). https://www.iodigital.com/nl/over-ons
