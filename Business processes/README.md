@@ -1,10 +1,10 @@
 Business processes are a crucial component within ICT to make clear how a situation is structured for the product produced thereafter. Taking the process of IO regarding searching for colleagues as an example, as seen below, the process for the task is not very efficient. When searching for a colleague, you have to scour each floor for the respective colleague, only to find out later that this colleague is on a day off.
 
-https://github.com/Colleak/Documentation/blob/main/Business%20processes/Business%20process%20OUD.svg
+![https://github.com/Colleak/Documentation/blob/main/Business%20processes/Business%20process%20OUD.svg](https://github.com/Colleak/Documentation/blob/main/Business%20processes/Business%20process%20OUD.svg)
 
 To simplify this process, we at Colleak have undertaken the task of creating a colleague tracker. Through the use of WiFi tracking, it should be possible to determine firstly whether the colleague is actually on-site, and secondly, when the colleague is on-site, to identify the router closest to the person. Below, you will find the simplified process for IO regarding the search for a colleague.
 
-https://github.com/Colleak/Documentation/blob/main/Business%20processes/Business%20process%20NIEUW.drawio.svg
+![https://github.com/Colleak/Documentation/blob/main/Business%20processes/Business%20process%20NIEUW.drawio.svg](https://github.com/Colleak/Documentation/blob/main/Business%20processes/Business%20process%20NIEUW.drawio.svg)
 
 
 # Userstory mapping
